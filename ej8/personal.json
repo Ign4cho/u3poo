@@ -1,0 +1,89 @@
+{
+    "__class__": "Manejador",
+    "agentes": [
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "cuil": "30000",
+                "apellido": "barrio",
+                "nombre": "mauri",
+                "sueldoBasico": 200.0,
+                "antiguedad": 4,
+                "categoria": "",
+                "areaInvestigacion": "",
+                "tipoInvestigacion": "",
+                "carrera": "informatica",
+                "cargo": "simple",
+                "catedra": "lsi"
+            }
+        },
+        {
+            "__class__": "Investigador",
+            "__atributos__": {
+                "cuil": "300",
+                "apellido": "colome",
+                "nombre": "ignacio",
+                "sueldoBasico": 40000.0,
+                "antiguedad": 3,
+                "categoria": "",
+                "areaInvestigacion": "redes",
+                "tipoInvestigacion": "solo",
+                "carrera": "",
+                "cargo": "",
+                "catedra": ""
+            }
+        },
+        {
+            "__class__": "DocInvestigador",
+            "__atributos__": {
+                "cuil": "505050",
+                "apellido": "tevez",
+                "nombre": "carlos",
+                "sueldoBasico": 400000.0,
+                "antiguedad": 4,
+                "categoria": "",
+                "areaInvestigacion": "redes",
+                "tipoInvestigacion": "imp",
+                "carrera": "informatica",
+                "cargo": "simple",
+                "catedra": "lsi",
+                "categoriaIncentivo": "III",
+                "importeExtra": 200.0
+            }
+        },
+        {
+            "__class__": "DeApoyo",
+            "__atributos__": {
+                "cuil": "23432",
+                "apellido": "monzon",
+                "nombre": "carlos",
+                "sueldoBasico": 30000.0,
+                "antiguedad": 3,
+                "categoria": 14,
+                "areaInvestigacion": "",
+                "tipoInvestigacion": "",
+                "carrera": "",
+                "cargo": "",
+                "catedra": ""
+            }
+        },
+        {
+            "__class__": "DocInvestigador",
+            "__atributos__": {
+                "cuil": "40402",
+                "apellido": "riquelme",
+                "nombre": "roman",
+                "sueldoBasico": 300000.0,
+                "antiguedad": 2,
+                "categoria": "",
+                "areaInvestigacion": "redes",
+                "tipoInvestigacion": "lala",
+                "carrera": "informatica",
+                "cargo": "exclusivo",
+                "catedra": "lcc",
+                "categoriaIncentivo": "III",
+                "importeExtra": 40000.0
+            }
+        }
+    ]
+}
